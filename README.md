@@ -25,6 +25,7 @@ Arrange the numbered tiles in ascending order.
 Complete the puzzle in as few moves and as little time as possible!
 
 ### ***📁 Project Structure***
+```text
 sliding-puzzle/
 ├── index.html
 ├── manifest.json
@@ -34,6 +35,7 @@ sliding-puzzle/
 │   ├── icon-512.png
 │   └── icon-512-maskable.png
 └── README.md
+```
 
 ### ***🌐 Deployment***
 
