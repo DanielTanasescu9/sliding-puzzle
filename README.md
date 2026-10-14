@@ -24,6 +24,9 @@ Click or slide a tile next to the empty space to move it.
 Arrange the numbered tiles in ascending order.
 Complete the puzzle in as few moves and as little time as possible!
 
+## 🚀 Live demo
+https://slid-puzzle.netlify.app
+
 ### ***📁 Project Structure***
 ```text
 sliding-puzzle/
